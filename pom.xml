@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.picklekey</groupId>
 	<artifactId>gateway</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<name>gateway</name>
 	<description>API gateway for POS </description>
 
